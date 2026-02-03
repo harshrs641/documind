@@ -13,14 +13,14 @@ DocuMind transforms your technical documentation into an intelligent assistant. 
 
 ## ✨ Features
 
-- 📁 **Multi-Format Support** - Upload Markdown, PDF, Python, JavaScript, TypeScript, Java, and more
-- 🔍 **Semantic Search** - Find relevant information using AI-powered embeddings
-- 💬 **Conversational Q&A** - Ask questions and get answers with source citations
-- 🏃 **100% Local** - Runs entirely on your machine using Ollama (no API costs!)
-- 🎯 **Code-Aware** - Intelligent chunking preserves function/class boundaries
-- 📊 **Source Citations** - Every answer includes references to original documents
-- ⚡ **Fast & Efficient** - Optimized for Apple Silicon (M1/M2/M3)
-- 🎨 **Beautiful UI** - Modern, responsive interface built with React & Tailwind
+-  **Multi-Format Support** - Upload Markdown, PDF, Python, JavaScript, TypeScript, Java, and more
+-  **Semantic Search** - Find relevant information using AI-powered embeddings
+-  **Conversational Q&A** - Ask questions and get answers with source citations
+-  **100% Local** - Runs entirely on your machine using Ollama (no API costs!)
+-  **Code-Aware** - Intelligent chunking preserves function/class boundaries
+-  **Source Citations** - Every answer includes references to original documents
+-  **Fast & Efficient** - Optimized for Apple Silicon (M1/M2/M3)
+-  **Beautiful UI** - Modern, responsive interface built with React & Tailwind
 
 ## 🚀 Quick Start
 
@@ -360,7 +360,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 📫 Email: harshrs641@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/harshrs641/documind/issues)
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/harsh-flutter-web3/)
+- 💼 LinkedIn: [Harsh Raj Singh](https://www.linkedin.com/in/harsh-flutter-web3/)
 - 🌐 Website: [https://bento.me/harsh-web3](https://bento.me/harsh-web3)
 
 ---
